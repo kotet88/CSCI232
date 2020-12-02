@@ -1,4 +1,4 @@
-https://github.com/kotet88/CsciFinal/raw/main/CSCI232Final.sql
+
 -- Creates a database with name Hollywood_Movies
 -- CREATE DATABASE Hollywood_Movies;
 
